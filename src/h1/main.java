@@ -3,7 +3,7 @@ package h1;
 public class main {
      public static void main(String[] args) {
 		int zone = 0;
-		double price;
+		double price = 2;
 		switch (zone){
 		case 1: {
 			price = 2;
